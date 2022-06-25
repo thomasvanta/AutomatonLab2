@@ -11,3 +11,7 @@ Gestures:
 - One finger swipe left/right: change speed of the animation.
 - One Tap: Play/stop the animation.
 - Long press: resets rotation, zoom and speed.
+
+ToDo:
+
+- Smooth all changing values (https://docs.unity3d.com/ScriptReference/Mathf.SmoothDamp.html) ?
